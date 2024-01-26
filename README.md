@@ -4,7 +4,7 @@
 
 
 - 🔭Recent Projects [Investigating Netflix Movies](https://github.com/Sambidh/Investigating-Netflix-Movies)
-
+		     [Data Professional Survey Breakdown using PowerBI](https://github.com/Sambidh/Data-Professional-Survey-Breakdown-using-PowerBI)
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [sambidh.github.io/sambidhrai.github.io/](sambidh.github.io/sambidhrai.github.io/)
