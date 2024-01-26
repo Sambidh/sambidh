@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [sambidh.github.io/sambidhrai.github.io/](sambidh.github.io/sambidhrai.github.io/)
-
 - 📫 How to reach me **raisambidh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
