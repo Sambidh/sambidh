@@ -3,8 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpY2w5MDIzdHg2a3Y4NG8xM3gyanFvdzlzZGJyNW1peGUxM2J5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTjXuYA2y4o3UZly3W/giphy.gif"/>
 
 
-- 🔭Recent Projects [Investigating Netflix Movies](https://github.com/Sambidh/Investigating-Netflix-Movies)
-		     [Data Professional Survey Breakdown using PowerBI](https://github.com/Sambidh/Data-Professional-Survey-Breakdown-using-PowerBI)
+- 🔭 Recent Projects
+  - [Investigating Netflix Movies](https://github.com/Sambidh/Investigating-Netflix-Movies)
+  - [Data Professional Survey Breakdown using PowerBI](https://github.com/Sambidh/Data-Professional-Survey-Breakdown-using-PowerBI)
+  - [Bike Sales Dashboard With Excel](https://github.com/Sambidh/Bike-Sales-Dashboard-With-Excel)
+
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [sambidh.github.io/sambidhrai.github.io/](sambidh.github.io/sambidhrai.github.io/)
