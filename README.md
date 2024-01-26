@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sambidh Rai</h1>
 <h3 align="center">Lifelong Learner Passionate about Data Science from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpY2w5MDIzdHg2a3Y4NG8xM3gyanFvdzlzZGJyNW1peGUxM2J5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTjXuYA2y4o3UZly3W/giphy.gif"
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambidh&label=Profile%20views&color=0e75b6&style=flat" alt="sambidh" /> </p>
