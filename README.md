@@ -13,7 +13,6 @@
   - [Data Professional Survey Breakdown using PowerBI](https://github.com/Sambidh/Data-Professional-Survey-Breakdown-using-PowerBI)
   - [Bike Sales Dashboard With Excel](https://github.com/Sambidh/Bike-Sales-Dashboard-With-Excel)
   
-
 - 📫 How to reach me **raisambidh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
